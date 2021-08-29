@@ -1,0 +1,13 @@
+*.db
+*.user
+*.opendb
+gameLearning-code/Debug/
+gameLearning-code/Release/
+gameLearning-code/.DS_Store
+*xcuserdatad*
+*.xccheckout
+*.stackdump
+gameLearning-code/.vs
+gameLearning-code/Chapter14/Assets/Saved.gplevel
+gameLearning-code/Chapter14/Assets/*.bin
+gameLearning-code/External/FMOD
